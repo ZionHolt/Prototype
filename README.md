@@ -1,8 +1,7 @@
 
-  # App
+  # AI Study Companion
 
-  This is a code bundle for App. The original project is available at https://www.figma.com/design/tHoPBb9hppmmChvLgkSazC/App.
-
+  This is a code bundle for App.
   ## Running the code
 
   Run `npm i` to install the dependencies.
